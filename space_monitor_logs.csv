@@ -1,0 +1,12 @@
+timestamp,frame_idx,astronaut,emotion_est,emotion_conf,voice_energy,voice_pitch,movement_mag,alert
+2025-09-22 14:12:21,2,Unknown,NoFace,0.0,0.0,0.0,0.1975058615207672,Unusual movement detected
+2025-09-22 14:12:21,3,Unknown,NoFace,0.0,0.0,0.0,0.8477998971939087,Unusual movement detected
+2025-09-22 14:12:21,4,Unknown,NoFace,0.0,0.0,0.0,0.31822219491004944,Unusual movement detected
+2025-09-22 14:12:21,5,Unknown,NoFace,0.0,0.0,0.0,0.146840438246727,Unusual movement detected
+2025-09-22 14:12:21,6,Unknown,NoFace,0.0,0.0,0.0,0.3118526041507721,Unusual movement detected
+2025-09-22 14:12:21,7,Unknown,NoFace,0.0,0.0,0.0,0.39568614959716797,Unusual movement detected
+2025-09-22 14:12:21,8,Unknown,NoFace,0.0,0.0,0.0,0.26818791031837463,Unusual movement detected
+2025-09-22 14:12:22,9,Unknown,NoFace,0.0,0.0,0.0,0.2770485281944275,Unusual movement detected
+2025-09-22 14:12:22,11,Unknown,NoFace,0.0,0.0,0.0,0.4808288514614105,Unusual movement detected
+2025-09-22 14:12:22,12,Unknown,NoFace,0.0,0.0,0.0,0.4856703281402588,Unusual movement detected
+2025-09-22 14:12:22,13,Unknown,NoFace,0.0,0.0,0.0,0.6306527853012085,Unusual movement detected
