@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+pillow
+fer
+mtcnn
+tensorflow
+speechrecognition
+pydub
+streamlit-mic-recorder
+opencv-python
+joblib
