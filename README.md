@@ -7,10 +7,15 @@ MAITRI is an AI-powered virtual assistant designed to support the mental, emotio
 The application provides a user-friendly multi-page dashboard where astronauts can interact through voice, analyze emotions using facial expressions, receive personalized activity recommendations, access relaxation resources, and monitor mission-related alerts. MAITRI aims to enhance astronaut mental health, improve mission productivity, and provide continuous emotional support during long-duration space exploration missions.
 
 **Objectives**
+
 Monitor astronaut emotional and psychological states.
+
 Provide personalized wellness recommendations.
+
 Enable natural voice-based communication.
+
 Reduce stress, loneliness, and anxiety during missions.
+
 Support astronaut mental health through AI-powered assistance.
 
 
